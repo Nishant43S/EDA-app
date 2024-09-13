@@ -1,5 +1,6 @@
 streamlit
 ydata-profiling
+pandas-profiling
 streamlit-camera-input-live
 streamlit-card
 streamlit-embedcode
