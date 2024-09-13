@@ -18,4 +18,4 @@ streamlit-toggle-switch
 streamlit-vertical-slider
 pandas
 seaborn
-visions
+
