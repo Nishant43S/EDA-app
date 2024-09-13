@@ -1,5 +1,5 @@
 pandas
-ydata-profiling
+ydata-profiling==4.10.0
 seaborn
 streamlit
 streamlit-camera-input-live
