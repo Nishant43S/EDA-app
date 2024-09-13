@@ -16,3 +16,4 @@ streamlit-pandas-profiling
 streamlit-server-state
 streamlit-toggle-switch
 streamlit-vertical-slider
+visions[type_image_path]==0.7.6
