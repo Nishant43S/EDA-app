@@ -9,5 +9,5 @@ seaborn
 numpy
 scipy
 matplotlib
-ydata_profiling==4.10.0
+ydata_profiling==0.7.5
 streamlit_pandas_profiling
