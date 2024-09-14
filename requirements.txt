@@ -1,3 +1,4 @@
+pip --upgrade
 streamlit
 streamlit-card==1.0.2
 streamlit-embedcode==0.1.2
