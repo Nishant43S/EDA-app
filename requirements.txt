@@ -1,4 +1,4 @@
-pip --upgrade
+
 streamlit
 streamlit-card==1.0.2
 streamlit-embedcode==0.1.2
@@ -9,5 +9,5 @@ seaborn
 numpy
 scipy
 matplotlib
-ydata_profiling==4.7.0
+ydata_profiling==4.10.0
 streamlit_pandas_profiling
