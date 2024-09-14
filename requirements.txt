@@ -9,5 +9,6 @@ seaborn
 numpy
 scipy
 matplotlib
+visions[type-image-path]==0.7.5
 ydata_profiling
 streamlit_pandas_profiling
