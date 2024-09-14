@@ -1,7 +1,7 @@
 ### importing libraries  ###
 import streamlit as st
 import pandas as pd
-from ydata_profiling import ProfileReport
+from pandas_profiling import ProfileReport
 import base64
 from streamlit_option_menu import option_menu
 from streamlit_pandas_profiling import st_profile_report
