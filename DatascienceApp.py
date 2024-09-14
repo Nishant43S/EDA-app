@@ -22,7 +22,7 @@ def insert_css(css_file):
 def read_csv(file_path):
     return pd.read_csv(file_path)
 
-@st.cache_data
+
 def File_name(file)->str:
     if file is not None:
         return file.name[:-4]
