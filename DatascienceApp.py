@@ -18,7 +18,7 @@ def insert_css(css_file):
     with open(css_file) as f:
         st.markdown(f"<style>{f.read()}</style>",unsafe_allow_html=True)
 
-@st.cache_data
+
 def read_csv(file_path):
     return pd.read_csv(file_path)
 
