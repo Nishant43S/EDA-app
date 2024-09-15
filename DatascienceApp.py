@@ -1,14 +1,14 @@
 ### importing libraries  ###
 import streamlit as st
-import pandas as pd
-from ydata_profiling import ProfileReport
-import base64
 from streamlit_option_menu import option_menu
 from streamlit_pandas_profiling import st_profile_report
 from streamlit_extras.dataframe_explorer import dataframe_explorer
 from streamlit_extras.colored_header import colored_header
+from ydata_profiling import ProfileReport
 import seaborn as sbn
+import pandas as pd
 import random
+import base64
 
 
 ######  functions
